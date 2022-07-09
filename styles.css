@@ -1003,6 +1003,15 @@ Resume
   padding: 1rem;
 }
 
+.website-link {
+  color: var(--clr-paragraph);
+  transition: var(--transition);
+}
+
+.website-link:hover {
+  color: var(--clr-primary);
+}
+
 /* 
 ============
 Projects
